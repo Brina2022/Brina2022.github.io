@@ -105,13 +105,14 @@ p{
     padding: 20px;
 }
 .project_video_grid{
-    padding-left: 150px;
+    /*padding-left: 150px;*/
     alignment: center;
-    display: grid;
-    grid-template-columns: 1fr 1fr 1fr;
-    grid-gap: 1px;
+    /*display: grid;*/
+    /*grid-template-columns: 1fr 1fr 1fr;*/
+    /*grid-gap: 1px;*/
 }
 .project_video{
+    display: inline-block;
     width: 290px;
     height: 180px;
 }
