@@ -130,10 +130,15 @@ p{
     text-align: left;
     line-height: 2;
 }
+.skill_intro{
+    display: inline-block;
+    width: 60%;
+}
 .skill1-img{
     width:30%;
     float:left;
     margin-right: 50px;
+    margin-top: 50px;
 }
 .skill2-img{
     width:30%;
