@@ -1,0 +1,155 @@
+a{
+    color: #8CA1A5;
+    margin:10px 20px 10px 20px;
+    text-decoration: none;
+}
+a:hover{
+    color:#9A9483
+}
+.btn{
+
+}
+body{
+    margin: 0;
+    text-align: center;
+    font-family:'Merriweather Sans',sans-serif;
+}
+
+.btn {
+  background: #F3F0D7;
+  background-image: -webkit-linear-gradient(top, #F3F0D7, #E9C891);
+  background-image: -moz-linear-gradient(top, #F3F0D7, #E9C891);
+  background-image: -ms-linear-gradient(top, #F3F0D7, #E9C891);
+  background-image: -o-linear-gradient(top, #F3F0D7, #E9C891);
+  background-image: linear-gradient(to bottom, #F3F0D7, #E9C891);
+  -webkit-border-radius: 25px;
+  -moz-border-radius: 25px;
+  border-radius: 25px;
+  color: #ada040;
+  font-size: 20px;
+  padding: 5px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #D8B6A4;
+  background-image: -webkit-linear-gradient(top, #D8B6A4, #CEE5D0);
+  background-image: -moz-linear-gradient(top, #D8B6A4, #CEE5D0);
+  background-image: -ms-linear-gradient(top, #D8B6A4, #CEE5D0);
+  background-image: -o-linear-gradient(top, #D8B6A4, #CEE5D0);
+  background-image: linear-gradient(to bottom, #D8B6A4, #CEE5D0);
+  text-decoration: none;
+}
+#c-bottom{
+    color:#8A8635;
+}
+.contact-button{
+
+    margin: 20px;
+    font-size:150%;
+
+
+}
+#cloud2{
+    position:absolute;
+    left:24%;
+    top:500px;
+}
+#cloud1{
+    position:absolute;
+    right:24%;
+    margin-top: 0;
+
+}
+.top_container{
+    background-color: #EFFFFD;
+    padding-top: 100px;
+}
+.middle-container{
+    background-color: whitesmoke;
+    padding-top: 50px;
+    padding-bottom: 50px;
+
+}
+.bottom-container{
+    background-color: #F3F0D7;
+    padding: 40px;
+}
+
+h1{
+    width:300px;
+    margin:50px auto 0 auto;
+    font-family: "Courgette", cursive;
+    font-size: 6rem;
+    color: #87AAAA;
+    line-height: 2;
+}
+h2{
+    font-size: 2.5rem;
+    color: #87AAAA;
+    font-weight: normal;
+}
+h3{
+    color:#8CA1A5
+}
+.breaker{
+    border-style: dotted;
+    border-width: 0 0 15px 0;
+    margin: 50px auto 50px auto;
+    width:70px;
+    color: #F3D5C0;
+}
+p{
+    color:#40514E;
+    line-height: 2;
+    padding: 20px;
+}
+.project_video_grid{
+    /*padding-left: 150px;*/
+    alignment: center;
+    /*display: grid;*/
+    /*grid-template-columns: 1fr 1fr 1fr;*/
+    /*grid-gap: 1px;*/
+}
+.project_video{
+    display: inline-block;
+    width: 290px;
+    height: 180px;
+}
+#selfie{
+    width: 150px;
+}
+.school {
+    text-decoration: underline;
+    font-style: italic;
+    font-size: larger;
+}
+.skill-row{
+    width:50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+}
+.skill_intro{
+    display: inline-block;
+    width: 60%;
+}
+.skill1-img{
+    width:30%;
+    float:left;
+    margin-right: 50px;
+    margin-top: 50px;
+}
+.skill2-img{
+    width:30%;
+    float:right;
+    margin-left: 50px;
+}
+#slides{
+   padding-bottom: 20px;
+}
+.video_intro{
+
+}
+
+
