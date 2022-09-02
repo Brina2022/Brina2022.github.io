@@ -62,7 +62,8 @@ body{
 
 }
 #cooking_img{
-    width: 25%;
+    flex: 0 0 215px;
+    /*width: 25%;*/
     margin-right: 25px;
 }
 .top_container{
@@ -131,6 +132,7 @@ p{
 .skill-row{
     width:60%;
     margin: 100px auto 100px auto;
+    display: flex;
     text-align: left;
     line-height: 2;
 }
@@ -154,9 +156,21 @@ p{
 }
 #slides{
    padding-bottom: 20px;
+    width: 100%;
+    display: flex;
 }
+/*#slides > #google_slide{*/
+/*    !*flex: 0 0 960;*!*/
+/*    width: 100%;*/
+
+/*}*/
 .video_intro{
 
 }
 #water_fall{margin-top: 100px;
+}
+iframe[src*='docs.google.com']{
+    width:100%;
+    height: auto;
+    aspect-ratio:16/9;
 }
