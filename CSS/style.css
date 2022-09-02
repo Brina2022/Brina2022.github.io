@@ -157,7 +157,6 @@ p{
 #slides{
    padding-bottom: 20px;
     width: 100%;
-    display: flex;
 }
 /*#slides > #google_slide{*/
 /*    !*flex: 0 0 960;*!*/
@@ -170,7 +169,7 @@ p{
 #water_fall{margin-top: 100px;
 }
 iframe[src*='docs.google.com']{
-    width:100%;
+    width:85%;
     height: auto;
     aspect-ratio:16/9;
 }
